@@ -27,8 +27,6 @@
     <Folder Include="CQRS\Infrastructure\" />
     <Folder Include="CQRS\Queries\" />
     <Folder Include="Data\" />
-    <Folder Include="Models\Entities\" />
-    <Folder Include="Models\DTOs\" />
   </ItemGroup>
 
 </Project>
