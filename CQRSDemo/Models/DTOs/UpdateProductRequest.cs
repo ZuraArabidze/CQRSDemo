@@ -1,4 +1,4 @@
 ﻿namespace CQRSDemo.Models.DTOs;
 
-public class UpdateProductRequest(string Name, decimal Price, int Stock);
+public record UpdateProductRequest(string Name, decimal Price, int Stock);
 
