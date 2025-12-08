@@ -39,7 +39,7 @@ CqrsDemo.Custom/
 
 1. **Update connection string** in `appsettings.json`:
 ```csharp
-"ConnwctionString" : "Host=localhost;Database=cqrs_demo;Username=postgres;Password=postgres";
+"ConnectionString" : "Host=localhost;Database=cqrs_demo;Username=postgres;Password=postgres";
 ```
 
 2. **Run the application**:
