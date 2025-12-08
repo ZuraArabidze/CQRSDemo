@@ -24,7 +24,6 @@
     <Folder Include="CQRS\Commands\" />
     <Folder Include="CQRS\Handlers\CommandHandlers\" />
     <Folder Include="CQRS\Handlers\QueryHandlers\" />
-    <Folder Include="CQRS\Infrastructure\" />
     <Folder Include="CQRS\Queries\" />
     <Folder Include="Data\" />
   </ItemGroup>
