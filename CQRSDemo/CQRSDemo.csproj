@@ -24,8 +24,6 @@
     <Folder Include="Data\" />
     <Folder Include="Features\Products\Commands\" />
     <Folder Include="Features\Products\Queries\" />
-    <Folder Include="Models\Entities\" />
-    <Folder Include="Models\DTOs\" />
   </ItemGroup>
 
 </Project>
